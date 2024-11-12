@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Animesh Chourey
+## Hi there 👋 My name is Animesh Devendra Chourey
 
 ### AI & Software Engineering Enthusiast | Machine Learning & Deep Learning Specialist Developer | Python Developer | Innovator in Tech
 
